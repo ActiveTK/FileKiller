@@ -1,0 +1,7 @@
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\bin\Debug\FileKiller.exe.config
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\bin\Debug\FileKiller.exe
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\bin\Debug\FileKiller.pdb
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\obj\Debug\FileKiller.csproj.SuggestedBindingRedirects.cache
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\obj\Debug\FileKiller.csproj.CoreCompileInputs.cache
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\obj\Debug\FileKiller.exe
+C:\Users\ActiveTK\OneDrive\Projects\2021\FileKiller\obj\Debug\FileKiller.pdb
